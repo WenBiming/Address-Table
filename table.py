@@ -1,5 +1,5 @@
 from prettytable import PrettyTable
-
+from student import Student
 
 class Table:
     def __init__(self):
